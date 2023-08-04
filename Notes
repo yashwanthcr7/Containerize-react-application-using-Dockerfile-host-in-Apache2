@@ -1,0 +1,7 @@
+Perequsites:-
+Need React source code in your local directory.
+Step:1
+Create Dockerfile to Build and host in Apache server.
+Create a httpd.conf in same directory
+After build the Docker image.
+And run the docker caontainer.
